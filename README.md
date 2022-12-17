@@ -1,6 +1,6 @@
 # [CBUS] - Cardano Stakepool - Cryptobus.FM
 This is a Cardano pool from the non-profit cryptobus.fm initiative. We are located in Liechtenstein. 
-The setup is georedundant and managed by people with 30 years of IT experience. You can read more at pool.cryptobus.fm (coming soon) Cryptobus does not edit the pool, it is two very trustworthy anonymous people who administer the background. **All the people published here in Github have NO key access.**
+The setup is georedundant and managed by people with 30 years of IT experience. You can read more at pool.cryptobus.fm (coming soon) Cryptobus does not edit the pool, it is two very trustworthy people who administer the background. **All the people published here in Github have NO key access.**
 
 # Ticker: CBUS or [CBUS]
 
