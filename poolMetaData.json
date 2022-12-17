@@ -1,5 +1,4 @@
 {
-"extended": "https://raw.githubusercontent.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/main/extended-metadata.json",
 "name": "[CBUS] - Cardano Pool - Cryptobus.FM",
 "description": "This is a Cardano stake pool from the non-profit cryptobus.fm initiative. We are located in Liechtenstein. The setup is georedundant and managed by people with 30 years of IT experience. You can read more at pool.cryptobus.fm",
 "ticker": "CBUS",
