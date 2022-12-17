@@ -12,7 +12,6 @@ The setup is georedundant and managed by people with 30 years of IT experience. 
 |  **Pledge**  | 25.000,00 ADA  |
 |  **Location**  | Liechtenstein   |
 |  **Website**  | [pool.cryptobus.fm (cooming soon)](https://pool.cryptobus.fm)  |
-|  **Handle**  | [$Cryptobus.pool](https://pool.pm/$Cryptobus.pool)  |
 |  **Margin fee**  | 1.8%  |
 |  **Fixed fee**  | 340₳  |
 
