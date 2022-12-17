@@ -1,18 +1,26 @@
 # [CBUS] - Cardano Stakepool - Cryptobus.FM
 This is a Cardano pool from the non-profit cryptobus.fm initiative. We are located in Liechtenstein. The setup is georedundant and managed by people with 30 years of IT experience. You can read more at pool.cryptobus.fm (coming soon)
 
+**We are the only known and public Cardano Staking pool in Liechtenstein** 
+1. Liechtenstein is a small, beautiful country located in the heart of Europe.
+2. The people of Liechtenstein are known for their warm hospitality and friendly nature.
+3. Liechtenstein has a stable and prosperous economy, with a low unemployment rate and a high standard of living.
+
+### Ticker: CBUS
+**Our CBUS Cardano Pool Details:**
+
 | Ticker  | [CBUS]  |
 | :------------ | :------------ |
 |  **Name**  | [CBUS] - Cardano Stakepool - Cryptobus.FM  |
 |  **Pledge**  | 25.000,00 ADA  |
 |  **Location**  | Liechtenstein   |
-|  **Website**  | pool.cryptobus.fm  |
+|  **Website**  | pool.cryptobus.fm (cooming soon)  |
 |  **Handle**  | $Cryptobus.pool  |
 
 A Cardano staking pool is a group of individuals or entities that pool their resources together to increase their chances of being selected to create a new block on the Cardano blockchain. In the Cardano proof-of-stake (PoS) consensus mechanism, the creation of new blocks is determined by a randomized selection process based on the amount of stake (i.e., the number of Cardano tokens) that each participant holds. By joining a staking pool, participants can pool their resources and increase their chances of being selected to create a new block and earn a reward.
 
 
-### Links
+###Links
 
 - [Github Cryptobus.FM - WIKI](https://github.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/wiki/WIKI---Stakepool-Cryotpbus.fm)
 
