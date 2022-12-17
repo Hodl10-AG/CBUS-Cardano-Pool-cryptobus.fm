@@ -12,7 +12,7 @@ This is a Cardano pool from the non-profit cryptobus.fm initiative. We are locat
 A Cardano staking pool is a group of individuals or entities that pool their resources together to increase their chances of being selected to create a new block on the Cardano blockchain. In the Cardano proof-of-stake (PoS) consensus mechanism, the creation of new blocks is determined by a randomized selection process based on the amount of stake (i.e., the number of Cardano tokens) that each participant holds. By joining a staking pool, participants can pool their resources and increase their chances of being selected to create a new block and earn a reward.
 
 
-###Links
+### Links
 
 - [Github Cryptobus.FM - WIKI](https://github.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/wiki/WIKI---Stakepool-Cryotpbus.fm)
 
