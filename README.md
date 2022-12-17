@@ -3,4 +3,4 @@ This is a Cardano pool from the non-profit cryptobus.fm initiative. We are locat
 
 ###Links
 
-[WIKI](https://github.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/wiki)
+[WIKI](https://github.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/wiki/WIKI---Stakepool-Cryotpbus.fm)
