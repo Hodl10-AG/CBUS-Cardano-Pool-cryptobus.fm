@@ -1,2 +1,2 @@
-# -CBUS---Cardano-Pool---cryptobus.fm
-Cardano pool for the project cryptobus.fm
+# [CBUS] - Cardano Pool - Cryptobus.FM
+here is a cardano pool for the non profit cryptobus.fm initiative 
