@@ -3,6 +3,8 @@ This is a Cardano pool from the non-profit cryptobus.fm initiative. We are locat
 The setup is georedundant and managed by people with 30 years of IT experience. You can read more at pool.cryptobus.fm (coming soon) Cryptobus does not edit the pool, it is two very trustworthy people who administer the background. **All the people published here in Github have NO key access.**
 
 # Ticker: CBUS or [CBUS]
+[Cardano Explorer 'cexplorer' Link] (https://cexplorer.io/pool/pool1khwvcz8jz9auk53k698ywgr6ams27hrz20vnwqx2d4xggscp93f)
+[Cardano Explorer 'Pool.PM' Link] (https://pool.pm/b5dccc08f2117bcb5236d14e47207aeee0af5c6253d93700ca6d4c84)
 
 **Our CBUS Cardano Pool Details:**
 
