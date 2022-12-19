@@ -33,7 +33,7 @@ A Cardano staking pool is a group of individuals or entities that pool their res
 # Links
 
 **General:**
-- [Github Cryptobus.FM - WIKI](https://github.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/wiki/WIKI---Stakepool-Cryotpbus.fm)
+- [Github Cryptobus.FM - WIKI](https://github.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/wiki/WIKI---Stakepool-Cryptobus.fm)
 - [poolMetaData.json](https://tinyurl.com/yf5brbjf)
 
 **Social Media:**
