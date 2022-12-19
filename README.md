@@ -11,11 +11,14 @@ The setup is georedundant and managed by people with 30 years of IT experience. 
 | Ticker  | [CBUS]  |
 | :------------ | :------------ |
 |  **Name**  | [CBUS] - Cardano Stakepool - Cryptobus.FM  |
+|  **Pool ID**  | pool1khwvcz8jz9auk53k698ywgr6ams27hrz20vnwqx2d4xggscp93f  |
 |  **Pledge**  | 25.000,00 ADA  |
 |  **Location**  | Liechtenstein   |
 |  **Website**  | [pool.cryptobus.fm (cooming soon)](https://pool.cryptobus.fm)  |
 |  **Margin fee**  | 1.8%  |
 |  **Fixed fee**  | 340₳  |
+
+
 
 A Cardano staking pool is a group of individuals or entities that pool their resources together to increase their chances of being selected to create a new block on the Cardano blockchain. In the Cardano proof-of-stake (PoS) consensus mechanism, the creation of new blocks is determined by a randomized selection process based on the amount of stake (i.e., the number of Cardano tokens) that each participant holds. By joining a staking pool, participants can pool their resources and increase their chances of being selected to create a new block and earn a reward.
 
