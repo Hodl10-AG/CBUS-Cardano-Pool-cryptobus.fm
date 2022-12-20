@@ -22,6 +22,10 @@ The setup is georedundant and managed by people with 30 years of IT experience. 
 
 A Cardano staking pool is a group of individuals or entities that pool their resources together to increase their chances of being selected to create a new block on the Cardano blockchain. In the Cardano proof-of-stake (PoS) consensus mechanism, the creation of new blocks is determined by a randomized selection process based on the amount of stake (i.e., the number of Cardano tokens) that each participant holds. By joining a staking pool, participants can pool their resources and increase their chances of being selected to create a new block and earn a reward.
 
+
+![](https://raw.githubusercontent.com/Hodl10-AG/CBUS-Cardano-Pool-cryptobus.fm/main/img/Liechtenstein_relaynode.PNG)
+[Link to **live** data](https://cexplorer.io/pool/pool1khwvcz8jz9auk53k698ywgr6ams27hrz20vnwqx2d4xggscp93f/about#data)
+
 ![](https://burgenarchiv.de/grafiken/heads/liechtenstein/schloss-vaduz.webp)
 
 ### **We are the only known and public Cardano Staking pool in Liechtenstein** 
